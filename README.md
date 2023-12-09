@@ -17,3 +17,4 @@ bun dev
 
 ## BASICS
 We are just getting started
+I will be intergrating from different sources
