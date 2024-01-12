@@ -1,8 +1,7 @@
-import React from 'react'
 
-const Nav = () => {
+const Nav = ({ containerStyles, underlineStyles, linkStyles}) => {
   return (
-    <div>Nav</div>
+    <nav className={`${containerStyles}`}>Nav</nav>
   )
 }
 
